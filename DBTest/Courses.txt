@@ -1,0 +1,6 @@
+﻿CPSC 410,Java Programming,3,Intermediate level Java Programming,1001
+CPSC 411,Advance Java,3,Advance level Java Programming,1001
+CPSC 440,Windows Programming,3,Intermediate level C# Programming,1001
+CPSC 555,Web Application Development,3,Web Development,1001
+Math 301,Differential Equations,3,Solving Differential Equations,1004
+ELEG 443,Digital Signal Processing,3,Digital Signal Processing and its Applications,1002

@@ -1,0 +1,4 @@
+﻿10001,John,Jacobs,20 University Avenue,Bridgeport,CT,203-555-1134
+10002,Sara,Sorento,28 Hall Street,Bridgeport,CT,203-555-3362
+10003,Hong,Wong,46 Main Street,Bridgeport,CT,203-555-1222
+10004,David,King,55 Meadow Street,Shelton,CT,203-777-8126

@@ -1,0 +1,5 @@
+1001,Computer Science
+1002,Computer Engineering
+1003,Electrical Engineering
+1004,Math
+1005,Technology Management
